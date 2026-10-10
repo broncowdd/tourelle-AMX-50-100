@@ -1,6 +1,6 @@
 # Blender 5.2.2 LTS
 # www.blender.org
-mtllib test 2.1 .mtl
+test3.1.mtl
 o SomuaSMTurret
 v -7.126000 19.408911 11.828000
 v -8.490000 19.408911 12.735000
